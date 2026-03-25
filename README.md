@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+# Task Manager
+This project is a Task Manager web application developed using React.js and Material UI, designed to provide a clean, responsive, and user-friendly interface for managing daily tasks efficiently.
+
+The application allows users to:
+-Add new tasks dynamically
+-Mark tasks as completed using checkboxes
+-Delete tasks when they are no longer required
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
