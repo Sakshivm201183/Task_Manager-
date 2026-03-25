@@ -1,6 +1,6 @@
 # Task Manager
 
-This project is a Task Manager web application developed using React.js and Material UI. It uses JavaScript for application logic and React for building a clean, responsive, and user-friendly interface to manage daily tasks efficiently.
+This project is a Simple Task Manager web application developed using React.js and Material UI. It uses JavaScript for application logic and React for building a clean, responsive, and user-friendly interface to manage daily tasks efficiently.
 
 ## Features
 The application allows users to:
